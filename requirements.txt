@@ -1,0 +1,7 @@
+elasticsearch>=5.0.0,<6.0.0
+scandir
+tika
+watchdog
+docopt
+persist-queue
+appdirs
